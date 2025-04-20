@@ -1,12 +1,12 @@
 # TDDE70 Deep Learning Coursework
 
-This repository contains solutions for the TDDE70 Deep Learning course (Linköping University, Spring 2024), including an intro notebook and four labs.
+This repository contains my solutions for the TDDE70 Deep Learning course (Linköping University, Spring 2024), including an intro notebook and four labs.
 
 ---
 
 ## Contents
 
-- **Intro** – PyTorch basics: tensors, GPU, autograd, linear regression  
+- **Intro:** PyTorch basics: tensors, GPU, autograd, linear regression  
 - **Lab 0:** PyTorch & NN fundamentals  
 - **Lab 1:** Autoencoders & U‑Net  
 - **Lab 2:** Denoising Diffusion Probabilistic Models (DDPM)  
