@@ -1,0 +1,2 @@
+GTAV.zip filter=lfs diff=lfs merge=lfs -text
+lab3/coll_xyz/raw/coll_v1.2_AE_train.xyz filter=lfs diff=lfs merge=lfs -text

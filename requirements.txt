@@ -1,0 +1,10 @@
+torch
+torch-geometric
+torchvision
+numpy
+matplotlib
+scipy
+ase
+scikit-learn
+tqdm
+Pillow
