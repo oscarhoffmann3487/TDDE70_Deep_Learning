@@ -54,12 +54,19 @@ Get started with:
 - **Theory**: DDPM forward/backward processes, noise schedule  
 - **Implementation**: MLP denoiser with positional embeddings & noise utilities  
 - **Training & Sampling**: T=50 steps, L₂ loss, visualize samples  
+<div style="display: flex; align-items: left; gap: 1rem;">
+  <img src="assets/moon1.png" width="300" alt="GTAV1"/>
+  <img src="assets/moon2.png" width="300" alt="GTAV2"/>
+</div>
 
 ### Task 2: Class‑Conditional MNIST Generation  
 - **Architecture**: U‑Net with timestep & label embeddings, self‑attention  
 - **cDDPM**: T=1000 diffusion steps on 32×32 MNIST  
 - **Sampling**: Generate digits 0–9 conditioned on labels  
-
+<div style="display: flex; align-items: left; gap: 1rem;">
+  <img src="assets/handwritten2.png" width="300" alt="GTAV1"/>
+  <img src="assets/handwritten1.png" width="300" alt="GTAV2"/>
+</div>
 ---
 
 ## Lab 3: Graph Neural Networks (CGCNN)
